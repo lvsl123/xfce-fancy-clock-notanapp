@@ -3,6 +3,8 @@
 ## How to make an analog clock with any background you like
 Note: This is not a program that I wrote but is a built in clock that comes with the xfce desktop itself. The only thing I did was to add a background to it and enlarge the analog clock. 
 
+Url also in here: https://forum.xfce.org/viewtopic.php?pid=78854#p78854
+
 1. Make a new panel via "Panel -> Panel Preference". The button is at the right where you see "Panel 1" or any other number.
 2. Download and save this image:
 
