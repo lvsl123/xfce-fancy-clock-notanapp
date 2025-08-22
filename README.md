@@ -6,7 +6,7 @@ Note: This is not a program that I wrote but is a built in clock that comes with
 Url also in here: https://forum.xfce.org/viewtopic.php?pid=78854#p78854
 
 1. Make a new panel via "Panel -> Panel Preference". The button is at the right where you see "Panel 1" or any other number.
-2. Download and save this image:
+2. Download and save this image: (Of course you can replace this with any frame/backgrounds you want)
 
 >![](https://raw.githubusercontent.com/lvsl123/xfce-fancy-clock-notanapp/refs/heads/main/clock-152-3-3-dark-trans.png)\
 >[Download image here](https://raw.githubusercontent.com/lvsl123/xfce-fancy-clock-notanapp/refs/heads/main/clock-152-3-3-dark-trans.png)
