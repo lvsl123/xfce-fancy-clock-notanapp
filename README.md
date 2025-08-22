@@ -6,6 +6,6 @@ Note: This is not a program that I wrote but is a built in clock that comes with
 1. Make a new panel via "Panel -> Panel Preference". The button is at the right where you see "Panel 1" or any other number.
 2. Follow the below:
 
-   fsda
+   !(https://raw.githubusercontent.com/lvsl123/xfce-fancy-clock-notanapp/refs/heads/main/clock-152-3-3-dark-trans.png) "clock"]
    sdfa
    sadfa
